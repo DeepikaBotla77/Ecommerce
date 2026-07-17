@@ -17,7 +17,7 @@ function Register() {
     };
 
     try {
-      const res = await fetch("https://ecommerce-mjoe.onrender.com/user", {
+      const res = await fetch("https://ecommerce-mjoe.onrender.comuser", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

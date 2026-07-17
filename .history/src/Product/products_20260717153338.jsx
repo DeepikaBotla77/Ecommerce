@@ -16,7 +16,7 @@ function Products() {
     try {
       // Check product already exists in cart
       const check = await fetch(
-        `https://ecommerce-mjoe.onrender.com/cart?id=${item.id}`
+        `http://localhost:3000/cart?id=${item.id}`
       );
 
       const cart = await check.json();

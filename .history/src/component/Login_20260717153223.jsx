@@ -12,7 +12,7 @@ function Login() {
 
     try {
       const res = await fetch(
-        `https://ecommerce-mjoe.onrender.com/user?email=${email}&password=${password}`
+        `user?email=${email}&password=${password}`
       );
 
       const data = await res.json();
