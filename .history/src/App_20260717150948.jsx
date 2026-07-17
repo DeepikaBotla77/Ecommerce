@@ -3,7 +3,7 @@ import Login from "./component/Login";
 import Register from "./component/Register";
 import Home from "./component/Home";
 import Products from "./Product/Products";
-import ProductDetails from "./Product/Productdetails";
+import ProductDetails from "./Product/Prr
 import Navbar from "./component/Navbar";
 import "./App.css";
 function App() {
@@ -20,7 +20,7 @@ function App() {
       
 
       <Route path="/navbar" element={<Navbar />} />
-      <Route path="/products/:id" element={<Productdetails />} />
+      <Route path="/products/:id" element={<ProductDetails />} />
       
     </Routes>
   );
