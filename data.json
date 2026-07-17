@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "name": "poojitha",
+      "email": "poojitha2@gmail.com",
+      "password": "Poojitha@123",
+      "id": "NE61qNKtvVE"
+    },
+    {
+      "name": "Deepika",
+      "email": "deepika12@gmail.com",
+      "password": "Deepika@123",
+      "id": "en4T3-Sz_e4"
+    },
+    {
+      "name": "vijay",
+      "email": "vijay3@gmail.com",
+      "password": "Vijay",
+      "id": "v7DW_UyG_RQ"
+    }
+  ],
+  "cart": [
+    {
+      "id": "oLXcay6Sggw",
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "price": 22.3,
+      "category": "men's clothing",
+      "quantity": 1
+    },
+    {
+      "id": "vT7_PtP2r3o",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+      "price": 695,
+      "category": "jewelery",
+      "quantity": 1
+    },
+    {
+      "id": "kInOYXbwiHY",
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+      "price": 999.99,
+      "category": "electronics",
+      "quantity": 1
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

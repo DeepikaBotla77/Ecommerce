@@ -1,0 +1,21 @@
+{
+  "user": [
+    {
+      "name": "poojitha",
+      "email": "poojitha2@gmail.com",
+      "password": "Poojitha@123",
+      "id": "NE61qNKtvVE"
+    },
+    {
+      "name": "Deepika",
+      "email": "deepika12@gmail.com",
+      "password": "Deepika@123",
+      "id": "en4T3-Sz_e4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+
+
+
+  "cart": []
+}
