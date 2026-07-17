@@ -42,4 +42,4 @@ function Productdetails() {
   );
 }
 
-export default Productdetails;
+export default ProductDetails;
